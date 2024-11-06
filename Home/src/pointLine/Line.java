@@ -1,7 +1,6 @@
 package pointLine;
 
 public class Line {
-
     private double x, x1, y, y1;
 
     public Line(double x, double x1, double y, double y1) {
